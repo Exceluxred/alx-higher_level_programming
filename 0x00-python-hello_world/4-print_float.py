@@ -1,3 +1,3 @@
 #!/usr/bin/python3
-str = "Holberton School"
-print(str+str+str+'\n'+str[:9])
+number = 3.14159
+print(f"Float: {number:0.2f}")
